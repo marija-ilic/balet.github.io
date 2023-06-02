@@ -1,0 +1,198 @@
+* {
+  box-sizing: content-box;
+}
+ 
+body {
+    background-color:#D2B48C ;
+  margin-left: 5px; 
+  margin-right: 5px;
+  padding: 0;
+  font-size: larger;
+  font-family: 'Trebuchet MS'
+}
+h3 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+pre {
+  text-align: center;
+    font-family: 'Trebuchet MS?';
+}
+
+header {
+    color: white;
+  padding: 20px;
+  text-align: center;
+  background-image: url(slike/ballet.jpg);
+  text-align: center;
+}
+
+nav{
+    background-color:#E4D2BA;
+    height:40px;
+    padding:0px;
+  }
+  nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+   }
+  
+  nav li{
+      overflow:hidden;
+    float:left;
+    margin:0px;
+    padding:10px;
+    text-transform:uppercase;
+    height:40px;
+  }
+  
+  nav li a{
+    text-decoration:none;
+    color:#fff;
+    margin:0px;
+    
+  }
+
+  
+div {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.centar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nuit {
+    float: right;   
+}
+
+.delacour {
+    float: left;
+
+}
+.class {
+    float: left;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.khoreva {
+    float: right;
+    padding-bottom: 20px;
+}
+
+.nutcracker {
+  float: left;
+  padding-bottom: 50px;
+}
+
+.swan {
+  float: right;
+  padding-bottom: 50px;
+}
+
+.romeoijulija {
+  padding-bottom: 50px;
+}
+
+.ndt {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+}
+
+.zakharova {
+  padding-bottom: 100px;
+}
+
+h2 {
+  text-align: center;
+}
+.vaganova {
+  margin: 0 0 20px 20px;
+}
+
+.nycb {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.amare {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.paris {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ .london {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+ .boljšoj {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+  .marinski {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  .academie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .vaganova {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .cecchetti {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .danish {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .royal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .balanšin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+  text-align: center;
+  background-color:black;
+  color: white;
+
+ } 
